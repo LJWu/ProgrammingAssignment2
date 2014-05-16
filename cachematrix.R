@@ -1,15 +1,14 @@
-## Put comments here that give an overall description of what your
-## functions do
+# This function is for manipulating matricies.
 
-## Write a short comment describing this function
+# This function inverses a matrix efficently.
 
 makeCacheMatrix <- function(x = matrix()) {
 
 }
 
-
-## Write a short comment describing this function
+# Purpose of this function is to optimize computing time when inverting a matrix
 
 cacheSolve <- function(x, ...) {
-        ## Return a matrix that is the inverse of 'x'
+        
+     return(newmatrix) ## Return a matrix that is the inverse of 'x'
 }
